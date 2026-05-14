@@ -25,9 +25,9 @@ This project was developed during my internship at **Ordnance Factory Board** to
 ## 📸 Key Screenshots
 
 The following output screenshots are included:
-- `Admin form output.jpg` – Form-based admin interface  
-- `File Rack Management System output.jpg` – File system search and output display  
-<img width="1367" height="769" alt="Admin form output" src="https://github.com/user-attachments/assets/6a577ce1-be9f-489d-a009-ef06772b648e" />
+1. Admin form output![Screenshot](https://github.com/user-attachments/assets/144d71b2-6e02-4bd7-b4a6-4ecfbe720387)
+
+2. File Rack Management System output![Screenshot](https://github.com/user-attachments/assets/5931b557-66d6-49f2-8120-1cb631fcde5b)
 
 
 ---
@@ -48,5 +48,5 @@ The following output screenshots are included:
 
 ---
 
-> 📝 **Note:** Source code will be uploaded later once retrieved from local backup.
+> 📝 **Note:**  Project files/source code will be updated soon.
 
